@@ -1,0 +1,14 @@
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\bin\Debug\net8.0\Clase 14.exe
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\bin\Debug\net8.0\Clase 14.deps.json
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\bin\Debug\net8.0\Clase 14.runtimeconfig.json
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\bin\Debug\net8.0\Clase 14.dll
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\bin\Debug\net8.0\Clase 14.pdb
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.AssemblyInfoInputs.cache
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.AssemblyInfo.cs
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.dll
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\refint\Clase 14.dll
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.pdb
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\Clase 14.genruntimeconfig.cache
+C:\Users\luisr\OneDrive\Desktop\U\Clase 14\obj\Debug\net8.0\ref\Clase 14.dll
