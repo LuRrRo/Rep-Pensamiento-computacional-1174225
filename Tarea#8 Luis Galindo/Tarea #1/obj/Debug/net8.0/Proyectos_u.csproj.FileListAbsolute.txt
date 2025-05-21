@@ -1,0 +1,28 @@
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.AssemblyInfoInputs.cache
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.AssemblyInfo.cs
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Proyectos_u\bin\Debug\net8.0\Proyectos_u.exe
+C:\Users\luisr\Proyectos_u\bin\Debug\net8.0\Proyectos_u.deps.json
+C:\Users\luisr\Proyectos_u\bin\Debug\net8.0\Proyectos_u.runtimeconfig.json
+C:\Users\luisr\Proyectos_u\bin\Debug\net8.0\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\bin\Debug\net8.0\Proyectos_u.pdb
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\refint\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.pdb
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\Proyectos_u.genruntimeconfig.cache
+C:\Users\luisr\Proyectos_u\obj\Debug\net8.0\ref\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\Tarea #1\bin\Debug\net8.0\Proyectos_u.exe
+C:\Users\luisr\Proyectos_u\Tarea #1\bin\Debug\net8.0\Proyectos_u.deps.json
+C:\Users\luisr\Proyectos_u\Tarea #1\bin\Debug\net8.0\Proyectos_u.runtimeconfig.json
+C:\Users\luisr\Proyectos_u\Tarea #1\bin\Debug\net8.0\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\Tarea #1\bin\Debug\net8.0\Proyectos_u.pdb
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.AssemblyInfoInputs.cache
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.AssemblyInfo.cs
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\refint\Proyectos_u.dll
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.pdb
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\Proyectos_u.genruntimeconfig.cache
+C:\Users\luisr\Proyectos_u\Tarea #1\obj\Debug\net8.0\ref\Proyectos_u.dll
